@@ -3,7 +3,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://forthebadge.com)
 
 # License
-Blehhguh's static website © 2024 by blehhguh is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+This website is licensed under the Apache License 2.0. Read more at [LICENSE](LICENSE).
 
 aloha there 👋
 
